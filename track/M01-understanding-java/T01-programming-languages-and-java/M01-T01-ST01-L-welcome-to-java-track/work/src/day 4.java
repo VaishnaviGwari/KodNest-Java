@@ -1,6 +1,4 @@
-/**
- * day 4
- */
+
 class Day4 {
 
     public static void main(String[] args) {
